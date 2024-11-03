@@ -7,8 +7,11 @@ Welcome to my portfolio! I'm Parth Chandra, a 18-year-old BTech student speciali
 -Shalom Hills International School "till 2023"
 -Currently at SRM INSTITUTE OF SCIENCE AND TECHNOLOGY
 
-### My Skills
-"C:\Users\Parth\OneDrive\Pictures\Screenshots\Screenshot 2024-11-03 155339.png"
+### MY Skills
+-Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees (Binary, AVL, etc.), Graphs, Heaps, Hash Tables.
+-Algorithms: Sorting (Merge Sort, Quick Sort, etc.), Searching (Binary Search, Depth-First Search, Breadth-First Search), Dynamic Programming, Greedy Algorithms, Backtracking.
+-Languages: C, C++, JavaScript, Python, HTML, CSS.
+-Development Tools: Git, Visual Studio Code.
 
 ### Hackerrank
 -Achievements: 3-star rating in Problem Solving, completed 20+ DSA challenges.
